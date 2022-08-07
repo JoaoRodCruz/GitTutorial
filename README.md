@@ -1,3 +1,5 @@
+O projeto abaixo foi feito pela https://github.com/rafaballerini
+
 # Como usar o Git e Github na prática
  
 ## Início do vídeo
